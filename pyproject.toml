@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "apiurls"
+version = "0.1.0"
+description = "APIのURLを格納するクラスを作成するミックスイン"
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.6"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

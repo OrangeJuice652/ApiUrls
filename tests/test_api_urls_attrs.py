@@ -1,5 +1,5 @@
-from api_urls import ApiUrlsMixin
-from sub_directories import SubDirecotries
+from src.api_urls import ApiUrlsMixin
+from src.sub_directories import SubDirecotries
 from unittest import TestCase
 
 
