@@ -1,12 +1,12 @@
 [tool.poetry]
 name = "apiurls"
-version = "0.1.0"
+version = "0.1.2"
 description = "APIのURLを格納するクラスを作成するミックスイン"
 authors = ["Your Name <you@example.com>"]
 readme = "README.md"
 repository = "https://github.com/OrangeJuice652/ApiUrls"
 packages = [
-    { include = "src/*.py" },
+    { include = "apiurls" },
 ]
 
 [tool.poetry.dependencies]
