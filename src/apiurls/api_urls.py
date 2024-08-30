@@ -1,4 +1,4 @@
-from sub_directories import SubDirecotries
+from apiurls.sub_directories import SubDirecotries
 
 
 class ApiUrlsMixin:
