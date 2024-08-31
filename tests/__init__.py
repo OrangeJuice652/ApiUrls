@@ -1,0 +1,2 @@
+from .test_new_api_urls_mixin import TestNewApiUrlsMixin
+from .test_api_urls_attrs import TestApiUrlsAttrs
